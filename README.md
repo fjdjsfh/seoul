@@ -39,7 +39,7 @@
 
 ---
 ## PDF
-[제목을 입력해주세요__ 복사본.pdf](https://github.com/user-attachments/files/20686809/__.pdf)
+[서울시상권분석서비스.pdf](https://github.com/user-attachments/files/20686809/__.pdf)
 
 
 
